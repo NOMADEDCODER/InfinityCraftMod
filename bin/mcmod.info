@@ -1,0 +1,16 @@
+[
+{
+  "modid": "InfinityCraft",
+  "name": "InfinityCraft",
+  "description": "InfinityCraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["pongo1198 (nomadedcoder), tdog2697 (Gh0stH4ck3r)"],
+  "credits": "pongo1198 (nomadedcoder), tdog2697 (Gh0stH4ck3r)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
